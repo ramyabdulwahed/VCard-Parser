@@ -66,3 +66,7 @@ This project is a vCard management system that lets users load, validate, create
 | birthday       | DATETIME     | Parsed from BDAY property                   |
 | anniversary    | DATETIME     | Parsed from ANNIVERSARY property            |
 | file_id        | INT (FK)     | Reference to the `FILE` table (ON DELETE CASCADE) |
+
+## Note
+
+Source code is intentionally excluded to preserve academic integrity, as this project is part of a university course.
