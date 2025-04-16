@@ -1,6 +1,6 @@
 # VCard-Parser
 
-# 📇 vCard Manager – Assignment 3
+# 📇 vCard Manager
 
 Welcome! This project is a vCard management system written in C and Python, integrating C structs and logic with a dynamic Python-based terminal UI using `asciimatics`.
 
