@@ -67,6 +67,12 @@ This project is a vCard management system that lets users load, validate, create
 | anniversary    | DATETIME     | Parsed from ANNIVERSARY property            |
 | file_id        | INT (FK)     | Reference to the `FILE` table (ON DELETE CASCADE) |
 
+## 🚀 How to Run
+
+cd bin/
+python3 A3Main.py
+Note: Shared library already provided, thus just run the commands above!
+
 ## Note
 
 Source code is intentionally excluded to preserve academic integrity, as this project is part of a university course.
