@@ -14,8 +14,8 @@ This project is a vCard management system that lets users load, validate, create
   - Written in C, the vCard parser dynamically creates and validates cards using a custom `Card` struct.
   - Cards are validated against standard rules, ensuring only correct vCards are saved or processed.
 
-- 📁 **Loading `.vcf` Files**
-  - The program scans a `cards/` folder at startup and automatically loads and validates all `.vcf` files.
+- 📁 **Loading `.vcf/.vcard` Files**
+  - The program scans a `cards/` folder at startup and automatically loads and validates all `.vcf/.vcard` files.
   - Valid files are then optionally inserted into a **MySQL database**, extracting:
     - Contact name
     - Birthday (if properly formatted)
