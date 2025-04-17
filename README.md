@@ -75,4 +75,4 @@ Note: Shared library already provided, thus just run the commands above!
 
 ## Note
 
-Source code is intentionally excluded to preserve academic integrity, as this project is part of a university course.
+Source code is intentionally excluded to preserve academic integrity, as this project is part of a university project.
